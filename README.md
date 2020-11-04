@@ -20,5 +20,9 @@ npm run build
 npm run lint
 ```
 
+__Environment Variables__
+
+- Copy __.env.example__ to __.env__ and edit URL of your API
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
